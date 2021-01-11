@@ -1,4 +1,5 @@
-# [CV] (https://github.com/ayoungkim-tech/CV)
+# CV
+https://github.com/ayoungkim-tech/CV  
 This is CV of myself in pdf version.
 
 # Motivation
