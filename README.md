@@ -5,7 +5,8 @@ This is CV of myself in pdf version.
 This will let you know about me more easily.  
 This would be updated when there are any changes.
 # Screenshots
-![CV_page1](https://user-images.githubusercontent.com/76969129/106286715-9f07ed00-624e-11eb-8893-9c3edd868041.jpg)
-![page2](https://user-images.githubusercontent.com/76969129/106286720-9fa08380-624e-11eb-8da5-5821006a1a0a.jpg)
+![CV_page1](https://user-images.githubusercontent.com/76969129/110366311-c83a4b00-804e-11eb-9fdb-6336833d7b26.png)
+![CV_page2](https://user-images.githubusercontent.com/76969129/110366317-c96b7800-804e-11eb-8c9c-59024c63ce5e.png)
+
 # Tech/framework used
 It is made by using [Canva](https://www.canva.com).
